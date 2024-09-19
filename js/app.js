@@ -26,7 +26,7 @@
     target: '#sideNav'
   });
 
-  var str = 'My name is Rajith Sam and I am a full-stack Web Application Developer and Software Developer, currently living in Chennai, India.'
+  var str = 'My name is Rajith Sam and I am a full-stack Web Application Developer and Software Developer, currently living in Bengaluru, India.'
             +'I have a Masters of Technology in Software Engineering from B.S.Abdur Rahman University, and my primary focus and inspiration for my studies is Web Development.'
             +'I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques.'
             +'I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.';
